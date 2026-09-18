@@ -4,6 +4,7 @@ import cors from "cors";
 import authRoutes from "./routes/authRoutes.js";
 import healthRoutes from "./routes/healthRoutes.js";
 import profileRoutes from "./routes/profileRoutes.js";
+import gapRoutes from "./routes/gapRoutes.js";
 
 const app = express();
 
@@ -26,6 +27,7 @@ app.get("/", (req, res) => {
 app.use("/api/health", healthRoutes);
 app.use("/api/auth", authRoutes);
 app.use("/api/profile", profileRoutes);
+app.use("/api/gaps", gapRoutes);
 
 app.use((req, res) => {
   res.status(404).json({
