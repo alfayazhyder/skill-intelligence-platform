@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "email": "rahul@demo.gov.in",
+    "password": "demo123",
+    "role": "employee",
+    "department": "National Accounts",
+    "jobRole": "Statistical Officer",
+    "experience": 3,
+    "learningProgress": 45,
+    "skills": [
+      {
+        "name": "Official Statistics",
+        "level": 80
+      },
+      {
+        "name": "National Accounts",
+        "level": 60
+      },
+      {
+        "name": "Data Analysis",
+        "level": 75
+      },
+      {
+        "name": "Data Visualization",
+        "level": 45
+      },
+      {
+        "name": "Survey Methodology",
+        "level": 50
+      }
+    ]
+  },
+  {
+    "name": "Demo Administrator",
+    "email": "admin@demo.gov.in",
+    "password": "admin123",
+    "role": "administrator",
+    "department": "NSSTA",
+    "jobRole": "Training Administrator",
+    "experience": 6,
+    "learningProgress": 0,
+    "skills": []
+  }
+]
