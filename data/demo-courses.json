@@ -1,0 +1,46 @@
+[
+  {
+    "courseId": "IGOT-DEMO-001",
+    "title": "Data Visualization for Official Statistics",
+    "description": "Introduction to communicating official statistics through effective visualizations.",
+    "skills": ["Data Visualization"],
+    "difficulty": "Intermediate",
+    "duration": "6 Hours",
+    "provider": "Demo Training Catalogue",
+    "enrolled": false,
+    "completed": false
+  },
+  {
+    "courseId": "IGOT-DEMO-002",
+    "title": "Introduction to Data Analysis",
+    "description": "Fundamentals of analysing and interpreting statistical data.",
+    "skills": ["Data Analysis"],
+    "difficulty": "Beginner",
+    "duration": "5 Hours",
+    "provider": "Demo Training Catalogue",
+    "enrolled": false,
+    "completed": false
+  },
+  {
+    "courseId": "IGOT-DEMO-003",
+    "title": "Survey Methodology Fundamentals",
+    "description": "Fundamentals of survey design, collection and methodology.",
+    "skills": ["Survey Methodology"],
+    "difficulty": "Intermediate",
+    "duration": "7 Hours",
+    "provider": "Demo Training Catalogue",
+    "enrolled": false,
+    "completed": false
+  },
+  {
+    "courseId": "IGOT-DEMO-004",
+    "title": "National Accounts Fundamentals",
+    "description": "Introduction to national accounts concepts and statistical measures.",
+    "skills": ["National Accounts"],
+    "difficulty": "Intermediate",
+    "duration": "8 Hours",
+    "provider": "Demo Training Catalogue",
+    "enrolled": false,
+    "completed": false
+  }
+]
