@@ -5,7 +5,7 @@ export function getAllCourses() {
 }
 
 export function findCoursesBySkill(skill) {
-  if (!skill) {
+  if (!skill || typeof skill !== "string") {
     return [];
   }
 
