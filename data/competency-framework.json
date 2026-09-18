@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Statistical Officer",
+    "requiredCompetencies": [
+      {
+        "name": "Official Statistics",
+        "requiredLevel": 70
+      },
+      {
+        "name": "National Accounts",
+        "requiredLevel": 80
+      },
+      {
+        "name": "Data Analysis",
+        "requiredLevel": 70
+      },
+      {
+        "name": "Data Visualization",
+        "requiredLevel": 70
+      },
+      {
+        "name": "Survey Methodology",
+        "requiredLevel": 75
+      }
+    ]
+  }
+]
